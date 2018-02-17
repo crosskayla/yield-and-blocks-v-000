@@ -4,6 +4,6 @@ def hello_t(array)
     i = i + 1
   end
 end
-
 # call your method here!
 
+hello_t(['Tim','Tom','Jim'])
